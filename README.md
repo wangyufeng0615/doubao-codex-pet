@@ -108,3 +108,5 @@ Official references:
 This repository is released under the MIT license. The license covers the code,
 documentation, pet metadata, spritesheets, preview images, and optional Codex
 plugin wrapper.
+
+This is a personal learning project. If you have any copyright concerns, please contact alanwang424@gmail.com.
