@@ -1,0 +1,20 @@
+{
+  "name": "doubao-codex-pet",
+  "interface": {
+    "displayName": "Doubao Codex Pet"
+  },
+  "plugins": [
+    {
+      "name": "doubao-pet",
+      "source": {
+        "source": "local",
+        "path": "./plugins/doubao-pet"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

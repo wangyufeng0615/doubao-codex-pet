@@ -1,0 +1,26 @@
+{
+  "name": "doubao-pet",
+  "version": "0.1.0",
+  "description": "Install the Doubao custom pet for the Codex app.",
+  "author": {
+    "name": "Wang Yufeng",
+    "url": "https://github.com/wangyufeng0615"
+  },
+  "repository": "https://github.com/wangyufeng0615/doubao-codex-pet",
+  "license": "SEE LICENSE AND ASSET_LICENSE.md",
+  "keywords": ["codex", "pet", "doubao"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Doubao Pet",
+    "shortDescription": "Install the Doubao Codex pet",
+    "longDescription": "A small plugin wrapper that copies the bundled Doubao custom pet into the local Codex pets directory.",
+    "developerName": "Wang Yufeng",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://github.com/wangyufeng0615/doubao-codex-pet",
+    "defaultPrompt": [
+      "$doubao-pet install Doubao"
+    ],
+    "brandColor": "#5B8DEF"
+  }
+}

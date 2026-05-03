@@ -1,0 +1,8 @@
+.DS_Store
+doubao-run/
+generated_images/
+backups/
+*.tmp
+*.log
+__pycache__/
+*.pyc
