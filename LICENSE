@@ -3,12 +3,11 @@ MIT License
 Copyright (c) 2026 Wang Yufeng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of the software and associated documentation files in this repository, excluding
-the image assets covered by ASSET_LICENSE.md, to deal in the software without
-restriction, including without limitation the rights to use, copy, modify,
-merge, publish, distribute, sublicense, and/or sell copies of the software, and
-to permit persons to whom the software is furnished to do so, subject to the
-following conditions:
+of the software, image assets, and associated documentation files in this
+repository, to deal in them without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies, and to permit persons to whom the software, image assets, and
+documentation are furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the software.

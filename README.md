@@ -105,6 +105,6 @@ Official references:
 
 ## License And Rights
 
-Install scripts and documentation are covered by `LICENSE`.
-
-The image assets are covered separately by `ASSET_LICENSE.md`. Before making this repository public as a true open-source project, confirm that you have the right to publish and license a Doubao-inspired character asset.
+This repository is released under the MIT license. The license covers the code,
+documentation, pet metadata, spritesheets, preview images, and optional Codex
+plugin wrapper.

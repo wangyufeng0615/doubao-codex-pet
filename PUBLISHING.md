@@ -36,7 +36,7 @@ rm -rf "$tmpdir"
 
 ## Publish With GitHub CLI
 
-After the license/rights decision is confirmed:
+Create and push the public GitHub repository:
 
 ```sh
 git init
@@ -85,6 +85,8 @@ $doubao-pet install Doubao
 - Official plugin documentation says plugins are the installable distribution unit for reusable skills/apps.
 - Official CLI docs say `codex plugin marketplace add` accepts GitHub shorthand such as `owner/repo`.
 
-## Remaining Decision
+## License
 
-The one real release blocker is rights and licensing for the Doubao-inspired image asset. The scripts can be MIT, but the pet artwork should not be publicly relicensed until the asset rights are clear.
+The repository is released under the MIT license, including code,
+documentation, pet metadata, spritesheets, preview images, and the optional
+Codex plugin wrapper.
